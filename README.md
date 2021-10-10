@@ -1,2 +1,2 @@
 # ticket_dictionary
-Set of dictionaries with available types, kinds and lines for tickets.
+Set of dictionaries with available kinds, lines and periods for tickets.
